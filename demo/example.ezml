@@ -1,0 +1,22 @@
+[root_section1]
+
+{
+  name = "zhan1"
+  age = 10
+}
+{
+  name="wang1"
+  age=10
+}
+
+[root_section2.sub_section2]
+
+wang1={
+  name="wang1"
+  age = 10
+}
+wang2={
+  name = "other"
+  age=11
+}
+
